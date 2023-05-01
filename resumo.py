@@ -30,3 +30,6 @@ def resumo(texto):
 arquivo = 'artigo.txt'
 texto = ler_arquivo(arquivo)
 print(resumo(texto))
+
+
+#Deus é perfeito
